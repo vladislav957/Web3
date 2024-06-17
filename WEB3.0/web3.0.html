@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<body background="(2).jpq"
+      
+    <h1>hello new WEB3</h1>
+    <p>Open the browser console to see if Web3 was initialized successfully.</p>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>Web3.js Example</title>
+    <script stc="https://cdn.jsdelivr.net/npm/web3@1.5.3/dist/web3.min.js"></script>
+    <script>
+        window.addEventListener('load', async () => {
+            if (Window.ethereum) {
+                window.web3 = new
+                    web3(window.ethereum);
+                try {
+                    await window.ethereum.enable(); console.log('Web3 initialized successfull');
+                } catch (error) {
+                    console.error('Error initalizing Web3:', reeor);
+                }
+            } else if (window.web3) {
+                window.web3 = new
+                    Web3(window.web3.currentProvtider); console, log('web3 initialized successfully');
+            } else {
+                console.reeor('No Web3 provider detected');
+            }
+        });</script>
+    <img src="kill/chrome_screenshot_28 апр. 2024 г. 11_43_57 GMT+03_00.png" />
+    <main>
+        <section>
+            id"balance">
+            <h2>0.0000000</h2>
+            <p> id="walletBalance"> 0.000000</p>
+        </section>
+    </main>
+    <section>
+        di="">
+        <h3></h3>
+        <form id="">
+            <label>
+                for="recipient"> :
+            </label>
+            <input> type="text"</input>
+            <label>
+            
+            id="recipient">
+            for="amount"> :
+                <label>type="number"
+                id="amount"> 21,00000
+                <button>type="submit" > </button>
+                </label>
+        </form>
+    </section>
+    </label>
+</body>
+</html>
