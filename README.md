@@ -13,7 +13,7 @@
 Цель Web3 — создать более справедливый, безопасный и открытый Интернет, где пользователи имеют больше контроля над своими данными и могут участвовать в управлении и развитии платформ.
 
 
-Web3 (Web 3.0) is the concept of the next generation of the Internet, which involves decentralization and greater control of users over their data. The basic principles and technologies related to Web3 include:
+# Web3 (Web 3.0) is the concept of the next generation of the Internet, which involves decentralization and greater control of users over their data. The basic principles and technologies related to Web3 include:
 1. Blockchain: The use of blockchain technology to store data and execute transactions, which ensures transparency, security and immutability of information.
 2. Decentralization: Unlike centralized systems where data and control are concentrated in the hands of several large companies, Web3 involves the distribution of data and management among multiple users and nodes.
 3. Smart contracts: Programmable contracts that are automatically executed when specified conditions are met. These contracts are stored on the blockchain and can be used for various purposes, from financial transactions to cooperation agreements.
